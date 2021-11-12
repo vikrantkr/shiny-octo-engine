@@ -1,0 +1,23 @@
+button{
+    padding: 5px 20px;
+    background-color: teal;
+    color: white;
+    text-align: center;
+    border: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.countereven{
+    font-size: 200px;
+    color: green;
+    font-weight: bold;
+}
+
+.counterodd{
+    font-size: 200px;
+    color: red;
+    font-weight: bold;
+}
